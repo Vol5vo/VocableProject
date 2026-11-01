@@ -25,7 +25,6 @@ life
 glasses
 love
 sweetie
-color
 day
 news
 school
@@ -103,6 +102,23 @@ seventy, sjuttio, yetmiş,
 eighty, åttio, seksen, 
 ninety, nittio, doksan, 
 hundred, hundra, yüz,
+
+color, färg, renk,
+colorful, färgglatt, rengarenk,
+colored, färgat, renkli,
+red, röd, kırmızı,
+blue, blå, mavi,
+yellow, gul, sarı,
+green, grön, yeşil,
+white, vit, beyaz,
+black, svart, siyah,
+gray, grå, gri,
+pink, rosa, pembe,
+brown, brun, kahverengi
+beige, beige, bej,
+orange, orange, turuncu,
+
+
 
 monday, måndag, pazartesi, 
 tuesday, tisdag, salı, 
