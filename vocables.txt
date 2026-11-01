@@ -1,0 +1,119 @@
+english, svenska, türkçe, русский, français, arabi
+hello, hej, merhaba, привет, bonjour, marhaba
+bye, hejdå, görüşürüz(?), пока, adieu(?), ??? xd
+sorry, förlåt, özür dilerim.....
+yes
+no
+please
+thanks
+who
+what
+when
+where
+why
+how
+but
+and
+if
+this
+that
+some
+because
+
+water
+life
+glasses
+love
+sweetie
+color
+day
+news
+school
+book
+bus 
+price,
+weather
+street
+shop,
+city,
+time,
+beginning, 
+end, 
+language,
+name,
+morning,
+night,
+good,
+dream,
+bed, 
+art,
+room,
+money,
+house,
+issue,
+place,
+situation,
+
+friend
+girl
+boy
+man
+woman
+family
+mom
+dad
+brother
+sister
+
+i
+you
+us
+she
+he
+it
+they
+
+left
+right
+straight
+behind
+front
+over
+under
+up
+down
+center
+
+one, ett, bir, 
+two, två, iki, 
+three, tre, üç, 
+four, fyra, dört, 
+five, fem, beş, 
+six, sex, altı, 
+seven, sju, yedi, 
+eight, åtta, sekiz, 
+nine, nio, dokuz, 
+ten, tio, on, 
+twenty, tjugo, yirmi, 
+thirty, trettio, otuz, 
+fourty, fyrtio, kırk, 
+fifty, femtio, elli, 
+sixty, sextio, atmış, 
+seventy, sjuttio, yetmiş, 
+eighty, åttio, seksen, 
+ninety, nittio, doksan, 
+hundred, hundra, yüz,
+
+monday, måndag, pazartesi, 
+tuesday, tisdag, salı, 
+wednesday, onsdag, çarşamba, 
+thursday, torsdag, perşembe, 
+friday, fredag, cuma, 
+saturday, lördag, cumartesi
+sunday, söndag, pazar, 
+today, idag, bugün, 
+yesterday, igår, dün,
+tomorrow, imorgon, yarın,
+minute, minut, 
+hour, timme, 
+second, sekund
