@@ -2,56 +2,64 @@ english, svenska, türkçe, русский, français, arabi
 hello, hej, merhaba, привет, bonjour, marhaba
 bye, hejdå, görüşürüz(?), пока, adieu(?), ??? xd
 sorry, förlåt, özür dilerim.....
-yes
-no
-please
-thanks
-who
-what
-when
-where
-why
-how
-but
-and
-if
-this
-that
-some
-because
+yes, ja, evet
+no, nej, hayır,
+please, snälla, lütfen,
+thanks, tack, teşekkürler, 
+who, vem, kim,
+what, vad, ne,
+when, när, ne zaman
+where, var, nerede,
+why, varför, neden,
+how, hur, nasıl,
+but, men, ama, 
+and, och, ve, 
+if, om, eğer,
+this, detta, bu,
+that, det där, o
+those, de där, onlar
+these, dessa, bunlar
+some, några, bazı
+because, eftersom, çünkü
 
-water
-life
-glasses
-love
-sweetie
-day
-news
-school
-book
-bus 
-price,
-weather
-street
-shop,
-city,
-time,
-beginning, 
-end, 
-language,
-name,
-morning,
-night,
-good,
-dream,
-bed, 
-art,
-room,
-money,
-house,
-issue,
-place,
-situation,
+water, vatten, su,
+life, liv, hayat,
+glasses, glasögon, gözlük
+love, kärlek, aşk,
+affection, ömhet, sevgi,
+sweetie, älskling, tatlım
+dear, kära, canım
+day, dag, gün,
+news, nyheter, haberler,
+new, ny, yeni,
+school, skola, okul,
+book, bok, kitap,
+bus, buss, otobus,
+price, pris, fiyat,
+weather, väder, hava durumu,
+street, gata, sokak,
+way, väg, yol,
+shop, affär, dükkan,
+city, stad, şehir,
+time, tid, zaman,
+beginning, början, başlangıç,
+end, slut, son,
+language, språk, dil,
+name, namn, isim,
+morning, morgon, sabah,
+night, natt, gece,
+good, bra, iyi,
+dream, dröm, rüya,
+bed, säng, yatak,
+art, konst, sanat,
+room, rum, oda,
+money, pengar, para,
+house, hus, ev,
+question, fråga, soru,
+issue, problem, sorun,
+place, ställe, yer,
+ground, mark, yer,
+situation, läge, durum
 
 friend
 girl
