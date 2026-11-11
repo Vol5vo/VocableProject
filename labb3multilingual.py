@@ -1,9 +1,20 @@
 #double words, one meaning? like "bye bye" for english and yet theres a space in between
+
+
 #a way to make it ignore special letters? can we write hejdå as hejda isntead and its a valid answer? 
+#teacher said make a dictionary and check for every letter of a word with a for statement and then add the letters to the
+#newly made word (like newWord += letter) going from Å -> A, and Ä -> A etc,
+# # but to make it from A -> Ä or A -> Å
+#she said to compare the input with the answer key (?) 
+#idk if this means also making a dictionary where every weird letter gets converted ("snälla":"snalla") or what...
+#she also said to use this for my final assignment because she liked the idea :D
+#
 # howd it work with russian? привет as privet? make letters equal eachother?
+
+
 #categories before starting the quiz?
 #lowercase and strip for inputs
-#
+# 
 #
 #
 
